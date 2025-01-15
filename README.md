@@ -1,5 +1,3 @@
-# ChemGAN challenge
-
 # ANN-Optimized Natural HSP70 Inhibitors for Anticancer Therapy
 
 This repository contains the implementation of an artificial neural network (ANN) model designed to identify and optimize natural compounds targeting the HSP70 family of heat shock proteins. The aim of this project was to contribute to anticancer therapy by leveraging computational techniques to discover effective inhibitors. Below, you will find an overview of the project, methodology, and usage instructions.
