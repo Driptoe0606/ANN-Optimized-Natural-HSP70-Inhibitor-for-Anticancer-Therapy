@@ -42,7 +42,7 @@ Heat shock proteins (HSP70 family) play a critical role in cancer cell survival 
    - Improved model performance using additional training data and hyperparameter tuning.
 
 ## Data Sources
-- **NPASS (Natural Product Activity and Species Source Database):** Primary database for natural compounds.
+- **SANDCDB Database(South African Natural Compound Data Base):** Primary database for natural compounds.
 - **Other Natural Compound Repositories:** Supplementary datasets used for diversity.
 - **Apoptozole:** Reference compound for similarity-based screening.
 
